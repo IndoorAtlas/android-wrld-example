@@ -1,0 +1,150 @@
+[
+  {
+    "type": "context",
+    "kind": "venue-entry",
+    "id": "9760790b-4069-41d0-949a-3ed28ad2dbe8"
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1706217,
+      24.9448148
+    ]
+  },
+  {
+    "type": "context",
+    "kind": "floor-entry",
+    "id": "75f42ddd-33ea-4122-8964-9ce2b84b15c5",
+    "comment": "Floor 3"
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1706747,
+      24.9450408
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1706747,
+      24.9450408
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1706747,
+      24.9450408
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1706747,
+      24.9450408
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1706747,
+      24.9450408
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1706747,
+      24.9450408
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1706747,
+      24.9450408
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1706747,
+      24.9450408
+    ]
+  },
+  {
+    "type": "context",
+    "kind": "floor-entry",
+    "id": "a314b673-d27d-4bd1-a9bf-bc0cdbd7147c",
+    "floorLevel": "4",
+    "comment": "Floor 4"
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.170657946056245,
+      24.94566410083145
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.170660139677686,
+      24.94567178883266
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.17066181506977,
+      24.945669801256173
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.17067064451774,
+      24.94570017896916
+    ]
+  },
+  {
+    "type": "context",
+    "kind": "venue-exit"
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1732647,
+      24.9335844
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1732647,
+      24.9335844
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1732647,
+      24.9335844
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1732647,
+      24.9335844
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1732647,
+      24.9335844
+    ]
+  }
+]

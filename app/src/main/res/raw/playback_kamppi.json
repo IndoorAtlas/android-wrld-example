@@ -1,0 +1,247 @@
+[
+  {
+    "type": "location",
+    "coordinates": [
+      60.16981,
+      24.93535
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16981,
+      24.93535
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16981,
+      24.93535
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16981,
+      24.93535
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16981,
+      24.93535
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1698,
+      24.93517
+    ]
+  },
+  {
+    "type": "context",
+    "kind": "venue-entry",
+    "name": "Kamppi",
+    "id": "dc1447ad-698a-4c43-aebc-3bec33e45823"
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16981,
+      24.93506
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1698,
+      24.93497
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16977,
+      24.93484
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16973,
+      24.93471
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16971,
+      24.93466
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16963,
+      24.93464
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16958,
+      24.9346
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16956,
+      24.9345
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16956,
+      24.93438
+    ]
+  },
+  {
+    "type": "context",
+    "kind": "floor-entry",
+    "id": "e41b37c3-56cc-486d-a05b-8baae6a00fe9",
+    "comment": "ground floor",
+    "floorLevel": "G"
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16956,
+      24.93428
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16954,
+      24.93419
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16952,
+      24.93412
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16949,
+      24.93401
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16944,
+      24.93396
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1694,
+      24.93393
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16938,
+      24.93386
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16916,
+      24.93322
+    ]
+  },
+  {
+    "type": "context",
+    "kind": "floor-entry",
+    "id": "9ac8af35-e62a-4ac7-955a-3194f6a477e4",
+    "comment": "first floor",
+    "floorLevel": "1"
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16916,
+      24.93322
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16916,
+      24.93322
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1684,
+      24.9313
+    ]
+  },
+  {
+    "type": "context",
+    "kind": "floor-exit"
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1682,
+      24.9314
+    ]
+  },
+  {
+    "type": "context",
+    "kind": "venue-exit"
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.168270548240585,
+      24.931551218032837
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16822518279874,
+      24.931637048721313
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.168190491536215,
+      24.93170142173767
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.168102428936116,
+      24.931819438934326
+    ]
+  }
+]

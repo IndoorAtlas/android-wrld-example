@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.indooratlas.android.example.indoor.wrld">
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:name=".WRLDExampleApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true">
+        <meta-data
+            android:name="com.indooratlas.android.sdk.API_KEY"
+            android:value="@string/indooratlas_api_key" />
+        <meta-data
+            android:name="com.indooratlas.android.sdk.API_SECRET"
+            android:value="ApINBsFCX1rWjxK8MCzzsfKa9af7bmCSCW8Yr109h3d4hLH40GqpS/WaAnpye5Ow5+5VU/ZGAl27OkbEvyqydfSd6t491iAqGAbOHUjTEZbV7y/m3ZKxmlXClSFiNw==" />
+
+        <activity
+            android:name=".ui.MapActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@style/FullscreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ui.SettingsActivity"
+            android:parentActivityName="com.indooratlas.android.example.indoor.wrld.ui.MapActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.indooratlas.android.example.indoor.wrld.ui.MapActivity" />
+        </activity>
+    </application>
+
+</manifest>

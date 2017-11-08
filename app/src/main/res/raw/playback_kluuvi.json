@@ -1,0 +1,144 @@
+[
+  {
+    "type": "context",
+    "kind": "venue-entry",
+    "id": "773c63d2-06d5-46d2-8d1e-46fc9b2cc31a"
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16980092806499,
+      24.947255551815033
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.169696859158925,
+      24.947480857372284
+    ]
+  },
+  {
+    "type": "context",
+    "kind": "floor-entry",
+    "id": "324e9aac-c608-4959-bfd4-755a1756a1d2",
+    "comment": "ground floor",
+    "floorLevel": "1"
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16967818008962,
+      24.94753986597061
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16964615880321,
+      24.94760423898697
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16961680592994,
+      24.947695434093475
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16957677924231,
+      24.94778662919998
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.169515404893225,
+      24.947915375232697
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16948338344817,
+      24.948001205921173
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1695207417977,
+      24.94799315929413
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16955543165564,
+      24.94799047708511
+    ]
+  },
+  {
+    "type": "context",
+    "kind": "floor-entry",
+    "id": "058de6f9-7490-4a92-8b88-0f5331de1bd7",
+    "comment": "second floor",
+    "floorLevel": "2"
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16961013481873,
+      24.947979748249054
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16964082191912,
+      24.94797706604004
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.1696888538448,
+      24.94797706604004
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.169716872435686,
+      24.947995841503143
+    ]
+  },
+  {
+    "type": "context",
+    "kind": "venue-exit"
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16979025434619,
+      24.948011934757233
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16983695184026,
+      24.947893917560577
+    ]
+  },
+  {
+    "type": "location",
+    "coordinates": [
+      60.16983561762706,
+      24.947773218154907
+    ]
+  }
+]

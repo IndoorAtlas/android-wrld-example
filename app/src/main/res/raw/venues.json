@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Kluuvi",
+    "iaId": "773c63d2-06d5-46d2-8d1e-46fc9b2cc31a",
+    "wrldId": "EIM-cfcfd06c-34af-4caa-bebf-c460c2d4525b",
+    "coordinates": [60.1694317,24.9472698],
+    "floors": [
+      {
+        "name": "1st Floor",
+        "zOrder": 0,
+        "iaId": "324e9aac-c608-4959-bfd4-755a1756a1d2",
+        "index": 1
+      },
+      {
+        "name": "2nd Floor",
+        "zOrder": 1,
+        "iaId": "058de6f9-7490-4a92-8b88-0f5331de1bd7",
+        "index": 2
+      }
+    ]
+  },
+  {
+    "name": "IndoorAtlas Mikonkatu",
+    "iaId": "9760790b-4069-41d0-949a-3ed28ad2dbe8",
+    "wrldId": "EIM-8640ef3b-aa59-40eb-8e81-65139dd68107",
+    "coordinates": [60.1706707,24.9450808],
+    "floors": [
+      {
+        "name": "4th Floor",
+        "zOrder": 1,
+        "iaId": "a314b673-d27d-4bd1-a9bf-bc0cdbd7147c",
+        "index": 1
+      }
+    ]
+  },
+  {
+    "name": "Kamppi",
+    "iaId": "dc1447ad-698a-4c43-aebc-3bec33e45823",
+    "wrldId": "kamppi_22885",
+    "coordinates": [60.1695617,24.9332728],
+    "floors": [
+      {
+        "name": "Ground Floor",
+        "zOrder": 0,
+        "iaId": "e41b37c3-56cc-486d-a05b-8baae6a00fe9",
+        "index": 0
+      },
+      {
+        "name": "1st Floor",
+        "zOrder": 1,
+        "iaId": "9ac8af35-e62a-4ac7-955a-3194f6a477e4",
+        "index": 1
+      },
+      {
+        "name": "2nd Floor",
+        "zOrder": 2,
+        "iaId": "bad7e61d-48dc-417d-9fc5-504f20966b42",
+        "index": 2
+      },
+      {
+        "name": "3rd Floor",
+        "zOrder": 3,
+        "iaId": "8c102d16-a9fc-465b-ab00-a47b98f30894",
+        "index": 3
+      },
+      {
+        "name": "4th Floor",
+        "zOrder": 4,
+        "iaId": "cf0f29b8-cbc5-4f90-b126-4682e0f01829",
+        "index": 4
+      },
+      {
+        "name": "5th Floor",
+        "zOrder": 5,
+        "iaId": "11df219b-5cb6-4bd7-852d-81b6e46a8ca3",
+        "index": 5
+      },
+      {
+        "name": "6th Floor",
+        "zOrder": 6,
+        "iaId": "c844342a-3ddf-4c86-8b69-405b646d7cd4",
+        "index": 6
+      }
+    ]
+  },
+  {
+    "name": "Stockman",
+    "iaId": "eb9caa5a-bb99-4667-94c9-964fd81cd412",
+    "wrldId": "EIM-d6e58622-fbe0-4523-b25d-64a46830f757",
+    "coordinates": [60.1683677,24.9418888],
+    "floors": [
+      {
+        "name": "1st Floor",
+        "zOrder": 5,
+        "iaId": "1827eb13-4960-4711-91fa-db0cc6541d87",
+        "index": 4
+      },
+      {
+        "name": "2nd Floor",
+        "zOrder": 6,
+        "iaId": "1827eb13-4960-4711-91fa-db0cc6541d87",
+        "index": 5
+      },
+      {
+        "name": "3rd Floor",
+        "zOrder": 7,
+        "iaId": "03609c54-51d8-4e35-87d3-713da0588dde",
+        "index": 6
+      },
+      {
+        "name": "4th Floor",
+        "zOrder": 8,
+        "iaId": "988d99e9-c2f5-4a7c-8742-a7082dc2810e",
+        "index": 7
+      },
+      {
+        "name": "5th Floor",
+        "zOrder": 9,
+        "iaId": "ada571b9-03a0-4f3f-9d30-50729e55805a",
+        "index": 8
+      },
+      {
+        "name": "6th Floor",
+        "zOrder": 10,
+        "iaId": "48307228-a8b6-44b0-83cb-fedb98cd0a7f",
+        "index": 9
+      },
+      {
+        "name": "7th Floor",
+        "zOrder": 11,
+        "iaId": "6c0dc0d6-f1b0-46fa-add0-91fe747b0e48",
+        "index": 10
+      },
+      {
+        "name": "8th Floor",
+        "zOrder": 12,
+        "iaId": "6d41b72a-4ad3-4df0-a1bf-ade3f8b050ea",
+        "index": 11
+      }
+    ]
+  }
+]
