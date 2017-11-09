@@ -20,10 +20,6 @@ allprojects {
         }
         maven {
             url "http://indooratlas-ltd.bintray.com/mvn-public"
-            credentials {
-                username bintrayUsername
-                password bintrayKey
-            }
         }
     }
 }
